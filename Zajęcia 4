@@ -1,0 +1,20 @@
+list = [6, 2, 3, 7, 1, 12, 56, 99] 
+#przepraszam, inaczej nie umiem TT
+if list[0] > 9:
+  print("granat")
+if list[1] > 9:
+  print("granat")
+if list[2] > 9:
+  print("granat")
+if list[3] > 9:
+  print("granat")
+if list[4] > 9:
+  print("granat")
+if list[5] > 9:
+  print("granat")
+if list[6] > 9:
+  print("granat")
+if list[7] > 9:
+  print("granat")
+list.sort()
+list[0]
